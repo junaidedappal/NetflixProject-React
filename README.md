@@ -1,5 +1,4 @@
-# to see website
- https://junaidedappal.github.io/Netflix/
+
 
 # Getting Started with Create React App
 
