@@ -1,28 +1,31 @@
 .banner{
-    background-image: url("https://wallpaperaccess.com/full/2703652.png");
-    background-size: cover;
-    height: 448px;
+    background-size: cover; 
+    height:auto;
     color: white;
+    margin-right: 0;
+    padding-right: 0;
    
 }
-
 .content{
-    padding-top: 140px;
-    height: 190px;
+    padding-top:5rem;
     padding-left: 15px;
 }
 
 .title{
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 800;
-    padding-bottom: 0.3rem;
+    padding-bottom: 0.5rem;
+}
+p{
+    font-size:1.5rem ;
 }
 
 .button{
     color: white;
     outline: none;
     border: none;
-    font-weight: 700;
+    font-weight: 800;
+    font-size: 1.5rem;
     border-radius: 5px;
     padding-left: 2rem;
     padding-right: 2rem;
@@ -32,25 +35,18 @@
     cursor: pointer;
     margin-right: 1rem;
 }
-
 .button:hover{
     color: black;
     background-color: #e6e6e6;
 }
-
 .description{
         width: 45rem;
-        line-height: 1.3;
+        line-height: 2rem;
         padding-top: 1rem;
-        font-size: 1rem;
-        height: 80px;
+        font-size: 2rem;
         max-width: 360px;
 }
-
-
-
 .fade_bottom{
     height: 7.4rem;
     background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
-
 }
