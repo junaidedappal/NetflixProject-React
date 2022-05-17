@@ -35,10 +35,10 @@ function footer() {
           <p> <i class="fas fa-map-marked-alt"></i>Calicut,Kerela, India</p>
           <div class="share">
 
-              <a href="https://www.linkedin.com/in/junaid-k-m-262512173/?originalSubdomain=in" class="fab fa-linkedin" aria-label="LinkedIn" target="_blank"></a>
-              <a href="https://github.com/junaidedappal" class="fab fa-github" aria-label="GitHub" target="_blank"></a>
-              <a href="mailto:junaidkottilil@gmail.com" class="fas fa-envelope" aria-label="Mail" target="_blank"></a>
-              <a href="http://junaidkm.tech" class="fas fa-user" aria-label="Telegram" target="_blank"></a>
+              <a href="https://www.linkedin.com/in/junaid-k-m-262512173/?originalSubdomain=in" class="fab fa-linkedin" ></a>
+              <a href="https://github.com/junaidedappal" class="fab fa-github"  ></a>
+              <a href="mailto:junaidkottilil@gmail.com" class="fas fa-envelope" ></a>
+              <a href="http://junaidkm.tech" class="fas fa-user" ></a>
           </div>
       </div>
 
