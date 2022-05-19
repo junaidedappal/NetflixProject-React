@@ -19,11 +19,13 @@
 .poster{
     max-height: 130px;
     margin-right: 10px;
+    border-radius: 8px;
 
 }
 .smallposter{
     max-height: 95px;
     margin-right: 10px;
+    border-radius: 5px;
 
 }
 
